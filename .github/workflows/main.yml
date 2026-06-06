@@ -1,2 +1,5 @@
-- name: '21f2001279@ds.study.iitm.ac.in'
-  run: echo "Hello, world!"
+jobs:
+  test:
+    steps:
+      - name: 21f2001279@ds.study.iitm.ac.in
+        run: echo "Hello, world!
